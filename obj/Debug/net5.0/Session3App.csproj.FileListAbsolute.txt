@@ -1,0 +1,16 @@
+S:\Sess3local\session3app\bin\Debug\net5.0\Session3App.exe
+S:\Sess3local\session3app\bin\Debug\net5.0\Session3App.deps.json
+S:\Sess3local\session3app\bin\Debug\net5.0\Session3App.runtimeconfig.json
+S:\Sess3local\session3app\bin\Debug\net5.0\Session3App.runtimeconfig.dev.json
+S:\Sess3local\session3app\bin\Debug\net5.0\Session3App.dll
+S:\Sess3local\session3app\bin\Debug\net5.0\ref\Session3App.dll
+S:\Sess3local\session3app\bin\Debug\net5.0\Session3App.pdb
+S:\Sess3local\session3app\obj\Debug\net5.0\Session3App.csprojAssemblyReference.cache
+S:\Sess3local\session3app\obj\Debug\net5.0\Session3App.GeneratedMSBuildEditorConfig.editorconfig
+S:\Sess3local\session3app\obj\Debug\net5.0\Session3App.AssemblyInfoInputs.cache
+S:\Sess3local\session3app\obj\Debug\net5.0\Session3App.AssemblyInfo.cs
+S:\Sess3local\session3app\obj\Debug\net5.0\Session3App.csproj.CoreCompileInputs.cache
+S:\Sess3local\session3app\obj\Debug\net5.0\Session3App.dll
+S:\Sess3local\session3app\obj\Debug\net5.0\ref\Session3App.dll
+S:\Sess3local\session3app\obj\Debug\net5.0\Session3App.pdb
+S:\Sess3local\session3app\obj\Debug\net5.0\Session3App.genruntimeconfig.cache
