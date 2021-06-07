@@ -46,9 +46,9 @@ namespace Session3App
             for(j = 0; j < Menu.Length; j++)
             {
                 int n = 0;
-                if (Prices [n] <= 150.0f )
+                if (Prices [j] <= 150.0f )
                 {
-                    Console.WriteLine("He can only afford eating: " + Menu[j]);
+                    Console.WriteLine("He can only afford eating: " + Menu[n]);
                     //n++;
                     break;
 
